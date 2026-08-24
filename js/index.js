@@ -500,7 +500,7 @@ sr.reveal('.tespero', {
 		
 
 	});
-sr.reveal('.carousel', {
+sr.reveal('.', {
 		duration: 2000, //tiempo
 		//delay:1500,
 		origin: 'top', //origen
